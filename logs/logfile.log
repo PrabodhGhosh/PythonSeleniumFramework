@@ -1,0 +1,210 @@
+2020-08-09 14:57:35,726:INFO:test_homepage:Landed to homepage
+2020-08-09 14:57:56,728:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 14:57:56,886:INFO:test_invalidLogin:Entered email
+2020-08-09 14:57:57,045:INFO:test_invalidLogin:Entered password
+2020-08-09 14:58:07,415:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 14:58:07,415:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 14:58:07,469:INFO:test_invalidLogin:Entered email
+2020-08-09 14:58:07,469:INFO:test_invalidLogin:Entered email
+2020-08-09 14:58:07,522:INFO:test_invalidLogin:Entered password
+2020-08-09 14:58:07,522:INFO:test_invalidLogin:Entered password
+2020-08-09 15:04:20,235:INFO:test_homepage:Landed to homepage
+2020-08-09 15:04:35,132:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:04:35,274:INFO:test_invalidLogin:Entered email
+2020-08-09 15:04:35,415:INFO:test_invalidLogin:Entered password
+2020-08-09 15:04:38,805:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:04:38,805:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:04:38,906:INFO:test_invalidLogin:Entered email
+2020-08-09 15:04:38,906:INFO:test_invalidLogin:Entered email
+2020-08-09 15:04:39,029:INFO:test_invalidLogin:Entered password
+2020-08-09 15:04:39,029:INFO:test_invalidLogin:Entered password
+2020-08-09 15:08:37,204:INFO:test_homepage:Landed to homepage
+2020-08-09 15:08:52,415:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:08:52,631:INFO:test_invalidLogin:Entered email
+2020-08-09 15:08:52,839:INFO:test_invalidLogin:Entered password
+2020-08-09 15:08:56,217:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:08:56,217:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:08:56,349:INFO:test_invalidLogin:Entered email
+2020-08-09 15:08:56,349:INFO:test_invalidLogin:Entered email
+2020-08-09 15:08:56,499:INFO:test_invalidLogin:Entered password
+2020-08-09 15:08:56,499:INFO:test_invalidLogin:Entered password
+2020-08-09 15:27:25,460:INFO:test_homepage:Landed to homepage
+2020-08-09 15:27:42,222:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:27:42,355:INFO:test_invalidLogin:Entered email
+2020-08-09 15:27:42,494:INFO:test_invalidLogin:Entered password
+2020-08-09 15:27:46,644:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:27:46,644:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:27:46,754:INFO:test_invalidLogin:Entered email
+2020-08-09 15:27:46,754:INFO:test_invalidLogin:Entered email
+2020-08-09 15:27:46,881:INFO:test_invalidLogin:Entered password
+2020-08-09 15:27:46,881:INFO:test_invalidLogin:Entered password
+2020-08-09 15:37:04,706:INFO:test_homepage:Landed to homepage
+2020-08-09 15:37:19,347:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:37:19,482:INFO:test_invalidLogin:Entered email
+2020-08-09 15:37:19,627:INFO:test_invalidLogin:Entered password
+2020-08-09 15:37:34,076:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:37:34,076:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:37:34,184:INFO:test_invalidLogin:Entered email
+2020-08-09 15:37:34,184:INFO:test_invalidLogin:Entered email
+2020-08-09 15:37:34,321:INFO:test_invalidLogin:Entered password
+2020-08-09 15:37:34,321:INFO:test_invalidLogin:Entered password
+2020-08-09 15:40:26,297:INFO:test_homepage:Landed to homepage
+2020-08-09 15:40:49,207:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:40:49,442:INFO:test_invalidLogin:Entered email
+2020-08-09 15:40:49,653:INFO:test_invalidLogin:Entered password
+2020-08-09 15:40:53,169:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:40:53,169:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:40:53,294:INFO:test_invalidLogin:Entered email
+2020-08-09 15:40:53,294:INFO:test_invalidLogin:Entered email
+2020-08-09 15:40:53,464:INFO:test_invalidLogin:Entered password
+2020-08-09 15:40:53,464:INFO:test_invalidLogin:Entered password
+2020-08-09 15:41:59,860:INFO:test_homepage:Landed to homepage
+2020-08-09 15:42:20,443:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:42:21,654:INFO:test_invalidLogin:Entered email
+2020-08-09 15:42:21,765:INFO:test_invalidLogin:Entered password
+2020-08-09 15:42:32,110:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:42:32,110:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:42:32,163:INFO:test_invalidLogin:Entered email
+2020-08-09 15:42:32,163:INFO:test_invalidLogin:Entered email
+2020-08-09 15:42:32,219:INFO:test_invalidLogin:Entered password
+2020-08-09 15:42:32,219:INFO:test_invalidLogin:Entered password
+2020-08-09 15:56:41,477:INFO:test_homepage:Landed to homepage
+2020-08-09 15:56:59,157:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:56:59,292:INFO:test_invalidLogin:Entered email
+2020-08-09 15:56:59,420:INFO:test_invalidLogin:Entered password
+2020-08-09 15:57:03,544:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:57:03,544:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 15:57:03,824:INFO:test_invalidLogin:Entered email
+2020-08-09 15:57:03,824:INFO:test_invalidLogin:Entered email
+2020-08-09 15:57:04,023:INFO:test_invalidLogin:Entered password
+2020-08-09 15:57:04,023:INFO:test_invalidLogin:Entered password
+2020-08-09 16:01:25,592:INFO:test_homepage:Landed to homepage
+2020-08-09 16:01:42,765:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:01:42,916:INFO:test_invalidLogin:Entered email
+2020-08-09 16:01:43,098:INFO:test_invalidLogin:Entered password
+2020-08-09 16:01:47,858:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:01:47,858:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:01:47,976:INFO:test_invalidLogin:Entered email
+2020-08-09 16:01:47,976:INFO:test_invalidLogin:Entered email
+2020-08-09 16:01:48,110:INFO:test_invalidLogin:Entered password
+2020-08-09 16:01:48,110:INFO:test_invalidLogin:Entered password
+2020-08-09 16:04:37,405:INFO:test_homepage:Landed to homepage
+2020-08-09 16:04:53,493:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:04:53,648:INFO:test_invalidLogin:Entered email
+2020-08-09 16:04:53,818:INFO:test_invalidLogin:Entered password
+2020-08-09 16:04:58,722:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:04:58,722:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:04:58,885:INFO:test_invalidLogin:Entered email
+2020-08-09 16:04:58,885:INFO:test_invalidLogin:Entered email
+2020-08-09 16:04:59,080:INFO:test_invalidLogin:Entered password
+2020-08-09 16:04:59,080:INFO:test_invalidLogin:Entered password
+2020-08-09 16:12:37,549:INFO:test_homepage:Landed to homepage
+2020-08-09 16:12:53,535:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:12:53,666:INFO:test_invalidLogin:Entered email
+2020-08-09 16:12:53,794:INFO:test_invalidLogin:Entered password
+2020-08-09 16:12:58,111:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:12:58,111:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:12:58,237:INFO:test_invalidLogin:Entered email
+2020-08-09 16:12:58,237:INFO:test_invalidLogin:Entered email
+2020-08-09 16:12:58,387:INFO:test_invalidLogin:Entered password
+2020-08-09 16:12:58,387:INFO:test_invalidLogin:Entered password
+2020-08-09 16:36:19,677:INFO:test_homepage:Landed to homepage
+2020-08-09 16:36:34,348:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:36:34,474:INFO:test_invalidLogin:Entered email
+2020-08-09 16:36:34,596:INFO:test_invalidLogin:Entered password
+2020-08-09 16:36:42,204:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:36:42,204:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:36:42,314:INFO:test_invalidLogin:Entered email
+2020-08-09 16:36:42,314:INFO:test_invalidLogin:Entered email
+2020-08-09 16:36:42,439:INFO:test_invalidLogin:Entered password
+2020-08-09 16:36:42,439:INFO:test_invalidLogin:Entered password
+2020-08-09 16:40:03,549:INFO:test_homepage:Landed to homepage
+2020-08-09 16:40:24,601:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:40:24,751:INFO:test_invalidLogin:Entered email
+2020-08-09 16:40:24,916:INFO:test_invalidLogin:Entered password
+2020-08-09 16:40:29,131:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:40:29,131:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:40:29,228:INFO:test_invalidLogin:Entered email
+2020-08-09 16:40:29,228:INFO:test_invalidLogin:Entered email
+2020-08-09 16:40:29,355:INFO:test_invalidLogin:Entered password
+2020-08-09 16:40:29,355:INFO:test_invalidLogin:Entered password
+2020-08-09 16:43:14,737:INFO:test_homepage:Landed to homepage
+2020-08-09 16:43:39,385:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:43:40,752:INFO:test_invalidLogin:Entered email
+2020-08-09 16:43:40,876:INFO:test_invalidLogin:Entered password
+2020-08-09 16:43:47,850:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:43:47,850:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:43:47,953:INFO:test_invalidLogin:Entered email
+2020-08-09 16:43:47,953:INFO:test_invalidLogin:Entered email
+2020-08-09 16:43:48,137:INFO:test_invalidLogin:Entered password
+2020-08-09 16:43:48,137:INFO:test_invalidLogin:Entered password
+2020-08-09 16:46:55,993:INFO:test_homepage:Landed to homepage
+2020-08-09 16:47:10,753:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:47:10,901:INFO:test_invalidLogin:Entered email
+2020-08-09 16:47:11,036:INFO:test_invalidLogin:Entered password
+2020-08-09 16:47:14,514:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:47:14,514:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:47:14,629:INFO:test_invalidLogin:Entered email
+2020-08-09 16:47:14,629:INFO:test_invalidLogin:Entered email
+2020-08-09 16:47:14,764:INFO:test_invalidLogin:Entered password
+2020-08-09 16:47:14,764:INFO:test_invalidLogin:Entered password
+2020-08-09 16:49:54,645:INFO:test_homepage:Landed to homepage
+2020-08-09 16:50:09,240:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:50:09,381:INFO:test_invalidLogin:Entered email
+2020-08-09 16:50:09,498:INFO:test_invalidLogin:Entered password
+2020-08-09 16:50:12,641:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:50:12,641:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:50:12,754:INFO:test_invalidLogin:Entered email
+2020-08-09 16:50:12,754:INFO:test_invalidLogin:Entered email
+2020-08-09 16:50:12,926:INFO:test_invalidLogin:Entered password
+2020-08-09 16:50:12,926:INFO:test_invalidLogin:Entered password
+2020-08-09 16:52:47,651:INFO:test_homepage:Landed to homepage
+2020-08-09 16:53:02,139:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:53:02,282:INFO:test_invalidLogin:Entered email
+2020-08-09 16:53:02,426:INFO:test_invalidLogin:Entered password
+2020-08-09 16:53:05,590:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:53:05,590:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:53:05,694:INFO:test_invalidLogin:Entered email
+2020-08-09 16:53:05,694:INFO:test_invalidLogin:Entered email
+2020-08-09 16:53:05,812:INFO:test_invalidLogin:Entered password
+2020-08-09 16:53:05,812:INFO:test_invalidLogin:Entered password
+2020-08-09 16:54:11,978:INFO:test_homepage:Landed to homepage
+2020-08-09 16:54:28,533:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:54:28,669:INFO:test_invalidLogin:Entered email
+2020-08-09 16:54:28,819:INFO:test_invalidLogin:Entered password
+2020-08-09 16:54:32,498:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:54:32,498:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:54:32,626:INFO:test_invalidLogin:Entered email
+2020-08-09 16:54:32,626:INFO:test_invalidLogin:Entered email
+2020-08-09 16:54:32,781:INFO:test_invalidLogin:Entered password
+2020-08-09 16:54:32,781:INFO:test_invalidLogin:Entered password
+2020-08-09 16:56:49,821:INFO:test_homepage:Landed to homepage
+2020-08-09 16:57:06,424:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:57:06,553:INFO:test_invalidLogin:Entered email
+2020-08-09 16:57:06,688:INFO:test_invalidLogin:Entered password
+2020-08-09 16:57:10,239:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:57:10,239:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 16:57:10,343:INFO:test_invalidLogin:Entered email
+2020-08-09 16:57:10,343:INFO:test_invalidLogin:Entered email
+2020-08-09 16:57:10,454:INFO:test_invalidLogin:Entered password
+2020-08-09 16:57:10,454:INFO:test_invalidLogin:Entered password
+2020-08-09 17:00:14,941:INFO:test_homepage:Landed to homepage
+2020-08-09 17:00:30,611:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 17:00:30,790:INFO:test_invalidLogin:Entered email
+2020-08-09 17:00:30,997:INFO:test_invalidLogin:Entered password
+2020-08-09 17:00:34,675:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 17:00:34,675:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 17:00:34,788:INFO:test_invalidLogin:Entered email
+2020-08-09 17:00:34,788:INFO:test_invalidLogin:Entered email
+2020-08-09 17:00:34,906:INFO:test_invalidLogin:Entered password
+2020-08-09 17:00:34,906:INFO:test_invalidLogin:Entered password
+2020-08-09 17:01:48,216:INFO:test_homepage:Landed to homepage
+2020-08-09 17:02:03,592:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 17:02:03,715:INFO:test_invalidLogin:Entered email
+2020-08-09 17:02:03,830:INFO:test_invalidLogin:Entered password
+2020-08-09 17:02:07,032:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 17:02:07,032:INFO:test_invalidLogin:Clicked Sign In button
+2020-08-09 17:02:07,150:INFO:test_invalidLogin:Entered email
+2020-08-09 17:02:07,150:INFO:test_invalidLogin:Entered email
+2020-08-09 17:02:07,289:INFO:test_invalidLogin:Entered password
+2020-08-09 17:02:07,289:INFO:test_invalidLogin:Entered password
